@@ -30,19 +30,6 @@ const About = () => {
         assumenda accusantium eveniet explicabo, nobis dignissimos vel quaerat
         architecto et!
       </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod saepe
-        officiis, ad impedit blanditiis ea molestiae reiciendis alias fugit
-        consequatur assumenda accusantium eveniet explicabo, nobis dignissimos
-        vel quaerat architecto et!Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Quod saepe officiis, ad impedit blanditiis ea
-        molestiae reiciendis alias fugit consequatur assumenda accusantium
-        eveniet explicabo, nobis dignissimos vel quaerat architecto et!Lorem
-        ipsum dolor sit amet consectetur adipisicing elit. Quod saepe officiis,
-        ad impedit blanditiis ea molestiae reiciendis alias fugit consequatur
-        assumenda accusantium eveniet explicabo, nobis dignissimos vel quaerat
-        architecto et!
-      </p>
     </div>
   );
 };
