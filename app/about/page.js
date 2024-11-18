@@ -1,5 +1,10 @@
 import React from "react";
 
+export const metadata = {
+  title: "Ninja List | About",
+  keywords: "ninjas",
+};
+
 const About = () => {
   return (
     <div>
