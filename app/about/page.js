@@ -1,12 +1,12 @@
 import React from "react";
 
-export const metadata = {
-  title: "Ninja List | About",
-  keywords: "ninjas",
-};
 
 const About = () => {
   return (
+  //   <Head>
+  //   <title>Ninja List | About</title>
+  //   <meta name="keywords" content="ninjas" />
+  // </Head>
     <div>
       <h1>About</h1>
       <p>
